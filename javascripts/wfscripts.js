@@ -1,4 +1,4 @@
-
+// PREMIUM THEME FOR HTTPS://HOPEFUL-ROWAN.TUMBLR.COM
 
 $(document).ready(function() {
 // http://roxiestheme.net/post/158812662057/tutorial-change-the-color-of-tumblrs-new-audio
@@ -49,5 +49,6 @@ console.log('erro');
 //]]>
 
 // Custom Archives - http://coffeestainedbooks.net
+function js17(id) {var ele = document.getElementById("toggle2017");var text = document.getElementById("display2017");if(ele.style.display == "block") {ele.style.display = "none";text.innerHTML = "<span class='arri'>&#9658;&#160;</span><span class='arri_text'>2017</span>";}else {ele.style.display = "block";text.innerHTML = "<span class='arri'>&#9660;&#160;</span><span class='arri_text'>2017</span>";}} 
 function js18(id) {var ele = document.getElementById("toggle2018");var text = document.getElementById("display2018");if(ele.style.display == "block") {ele.style.display = "none";text.innerHTML = "<span class='arri'>&#9658;&#160;</span><span class='arri_text'>2018</span>";}else {ele.style.display = "block";text.innerHTML = "<span class='arri'>&#9660;&#160;</span><span class='arri_text'>2018</span>";}} 
 function js19(id) {var ele = document.getElementById("toggle2019");var text = document.getElementById("display2019");if(ele.style.display == "block") {ele.style.display = "none";text.innerHTML = "<span class='arri'>&#9658;&#160;</span><span class='arri_text'>2019</span>";}else {ele.style.display = "block";text.innerHTML = "<span class='arri'>&#9660;&#160;</span><span class='arri_text'>2019</span>";}} 
