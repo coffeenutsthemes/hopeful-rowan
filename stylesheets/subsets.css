@@ -1,8 +1,11 @@
+// coded by coffeestainedbooks.net @ coffeenutsthemes.com
+    
+    
 .pinboard {
-    margin-left:5px;
+    margin-left:6px;
     margin-top:15px;}
 .pinterest-gallery {
-    width: 31.1%;
+    width: 31.2%;
     padding:1px;
     float: left;
     position: relative;}
@@ -10,13 +13,13 @@
     width: 100%;
     padding-bottom: 100%;
     background-size: cover !important;
-    background-position: 31.1% 31.1% !important;}
+    background-position: 31.2% 31.2% !important;}
 .pinterest-thumbnail:hover {
     width: 100%;
     opacity:0.6;
     padding-bottom: 100%;
     background-size: cover !important;
-    background-position: 31.1% 31.1% !important;}
+    background-position: 31.2% 31.2% !important;}
 .arri_text { 
     color: #999999; 
     font-size: 14px; 
