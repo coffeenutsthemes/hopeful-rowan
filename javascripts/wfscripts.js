@@ -1,4 +1,4 @@
-// PREMIUM THEME FOR HTTPS://HOPEFUL-ROWAN.TUMBLR.COM
+// UPLOADED BY COFFEENUTSTHEMES - FOR - HOPEFUL-ROWAN.TUMBLR.COM PERSONAL USE ONLY
 
 $(document).ready(function() {
 // http://roxiestheme.net/post/158812662057/tutorial-change-the-color-of-tumblrs-new-audio
