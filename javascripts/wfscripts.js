@@ -35,7 +35,7 @@ url: 'https://api.pinterest.com/v3/pidgets/users/rowansincerely/pins/'
 }).done(function(response) {
 var pins = response.data.pins;
 var html = '';
-for (var i = 0; i < 3; i++) {
+for (var i = 0; i < 4; i++) {
 var description = pins[i].description;
 var dominantColor = pins[i].dominant_color;
 var imageUrl = pins[i].images['237x'].url;
